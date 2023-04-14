@@ -1,4 +1,4 @@
-Hey there, I'm @MITCHELLKURTZMAN. I enjoy Blockchain, Finance, Business and Engineering. I'm currently building on the Internet Computer. Feel free to message to collab.
+Hey there, I'm @MITCHELLKURTZMAN. I enjoy Blockchain, Finance, Business and Engineering. I'm currently building on the Internet Computer blockchain. Feel free to message to collab.
 
 <!---
 MITCHELLKURTZMAN/MITCHELLKURTZMAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
