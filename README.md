@@ -19,7 +19,17 @@ Currently, I'm an engineer building Nuance.xyz on the Internet Computer blockcha
 * I've taken a recent interest in bringing AI to the Internet Computer Blockchain, so far I've built a few applications that use the Open AI API, one of which is a flashcard generator, to which you choose a topic and it generates flashcards around the topic. This is a powerful design concept in my opinion, because the user experience can be supercharged, on top of the marketplace ability, security, transparency of a blockchain. 
 <img width="756" alt="Screen Shot 2023-06-24 at 9 43 00 AM" src="https://github.com/MITCHELLKURTZMAN/MITCHELLKURTZMAN/assets/68413758/0f249c21-f48c-45bf-896d-ef325241ba0d">
 
+5. Twitter/AI bot
+   * I've built a twitter bot that summarizes my research into tweets, I do not have gpt4 access via API yet so it's not exactly performant, or the best quality yet, but saves me time, provides a useful service and was fun to build.
+     <img width="603" alt="Screen Shot 2023-06-24 at 10 06 44 AM" src="https://github.com/MITCHELLKURTZMAN/MITCHELLKURTZMAN/assets/68413758/b5880aff-a08d-4af2-8adf-0d4879da64e4">
+
+     
+
+5. Whats next?
 * Currently I'm building a cross social poster for a grant, if you run a social media dapp on the IC please reach out and I will include your dapp in the beta. To be continued...
+* I'm looking forward to being apart of an SNS launch on the IC.
+* I want to learn rust, tensorflow.js and get an FAA drone operators licence.
+* I'm brainstorming useful B2B dapp ideas on the IC.
 
 <!---
 
