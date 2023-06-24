@@ -15,6 +15,7 @@ Currently, I'm an engineer building Nuance.xyz on the Internet Computer blockcha
 * Seb, one of the founders of the boot camp had a vision/need for a code checking application and dashboard tool for the next boot camp. I shared this vision as I'd completed Harvard cs50x course a few years prior, and it had a fantastic code checking tool, a concept I wanted to bring to the Internet Computer Blockchain. As a result of the application hundreds of students were able to complete the course autonomously, freeing up instructors from grading projects 1 by 1 and allowing them to focus their energy where needed.
 <img width="1503" alt="Screen Shot 2023-06-24 at 9 38 33 AM" src="https://github.com/MITCHELLKURTZMAN/MITCHELLKURTZMAN/assets/68413758/b125135f-5fb4-4f45-b986-7ffa3a8ab88f">
 
+4. AI on the IC
 * I've taken a recent interest in bringing AI to the Internet Computer Blockchain, so far I've built a few applications that use the Open AI API, one of which is a flashcard generator, to which you choose a topic and it generates flashcards around the topic. This is a powerful design concept in my opinion, because the user experience can be supercharged, on top of the marketplace ability, security, transparency of a blockchain. 
 <img width="756" alt="Screen Shot 2023-06-24 at 9 43 00 AM" src="https://github.com/MITCHELLKURTZMAN/MITCHELLKURTZMAN/assets/68413758/0f249c21-f48c-45bf-896d-ef325241ba0d">
 
