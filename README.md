@@ -1,6 +1,6 @@
 Hey there, I'm @MITCHELLKURTZMAN. I enjoy Blockchain, Finance, Business and Engineering.
 
-Currently, I'm an engineer building Nuance.xyz on the Internet Computer blockchain. Here are some highlights of my project and past achievements:
+Currently, I'm an engineer building Nuance.xyz on the Internet Computer blockchain. Here are some highlights of my projects and past achievements:
 
 1. Nuance.xyz
 
