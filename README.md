@@ -26,8 +26,7 @@ Currently, I'm an engineer building Nuance.xyz on the Internet Computer blockcha
      
 
 5. Whats next?
-* Currently I'm building a cross social poster for a grant, if you run a social media dapp on the IC please reach out and I will include your dapp in the beta. To be continued...
-* I'm looking forward to being apart of an SNS launch on the IC.
+* I'm building with mulitple teams on the IC to launch their SNS DAOs. 
 * I want to learn rust, tensorflow.js and get an FAA drone operators licence.
 * I'm brainstorming useful B2B dapp ideas on the IC.
 
