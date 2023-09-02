@@ -23,9 +23,13 @@ Currently, I'm an engineer building Nuance.xyz on the Internet Computer blockcha
    * I've built a twitter bot that summarizes my research into tweets, I do not have gpt4 access via API yet so it's not exactly performant, or the best quality yet, but saves me time, provides a useful service and was fun to build.
      <img width="603" alt="Screen Shot 2023-06-24 at 10 06 44 AM" src="https://github.com/MITCHELLKURTZMAN/MITCHELLKURTZMAN/assets/68413758/b5880aff-a08d-4af2-8adf-0d4879da64e4">
 
-     
+6. Modclub SNS launch
+   * Assisted in the testing, preperation, launch and operation of Modclub's SNS.
+   * The swap transfered over 650k ICP ($2M+ USD) and there were 350 participants.
+   * Great work to the Modclub team for building and cool product, and it was a pleasure to help get you guys across the line!
+<img width="610" alt="Screen Shot 2023-09-02 at 9 09 14 AM" src="https://github.com/MITCHELLKURTZMAN/MITCHELLKURTZMAN/assets/68413758/70292371-7278-4617-ab03-eff1c82bf2f8">
 
-5. Whats next?
+7. Whats next?
 * I'm building with mulitple teams on the [IC](https://internetcomputer.org/) to launch their [SNS DAOs](https://internetcomputer.org/sns) 
 * I want to learn rust, tensorflow.js and get an FAA drone operators licence.
 * I'm brainstorming useful B2B dapp ideas on the IC.
