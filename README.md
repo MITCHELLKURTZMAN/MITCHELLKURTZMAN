@@ -21,7 +21,7 @@ Currently, I'm an engineer building Nuance.xyz on the Internet Computer blockcha
 
 5. Twitter/AI bot
    * I've built a twitter bot that summarizes my research into tweets, this was fun to build but I've found the AI's voice is not very authentic to my style, so I've shut down the bot until I can train it to my liking.
-     <img width="603" alt="Screen Shot 2023-06-24 at 10 06 44 AM" src="https://github.com/MITCHELLKURTZMAN/MITCHELLKURTZMAN/assets/68413758/b5880aff-a08d-4af2-8adf-0d4879da64e4">
+<img width="603" alt="Screen Shot 2023-06-24 at 10 06 44 AM" src="https://github.com/MITCHELLKURTZMAN/MITCHELLKURTZMAN/assets/68413758/b5880aff-a08d-4af2-8adf-0d4879da64e4">
 
 6. Modclub SNS launch
    * Assisted in the testing, preperation, launch and operation of Modclub's SNS.
