@@ -39,7 +39,7 @@ Currently, I'm an engineer building Nuance.xyz on the Internet Computer blockcha
 6. **Modclub SNS launch**
    * Assisted in the testing, preperation, launch and operation of Modclub's SNS.
    * The swap transfered over 650k ICP ($2M+ USD) and there were 350 participants.
-   * Great work to the Modclub team for building and cool product, and it was a pleasure to help get you guys across the line!
+   * Great work to the Modclub team for building a cool product,  it was a pleasure to help get you guys across the line!
    <div align="center">
      <img width="800" alt="Screen Shot 2023-09-02 at 9 09 14 AM" src="https://github.com/MITCHELLKURTZMAN/MITCHELLKURTZMAN/assets/68413758/70292371-7278-4617-ab03-eff1c82bf2f8">
    </div>
