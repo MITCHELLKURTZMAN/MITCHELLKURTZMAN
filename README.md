@@ -44,8 +44,16 @@ I'm an engineer building Nuance.xyz on the Internet Computer blockchain. Here ar
      <img width="800" alt="Screen Shot 2023-09-02 at 9 09 14 AM" src="https://github.com/MITCHELLKURTZMAN/MITCHELLKURTZMAN/assets/68413758/70292371-7278-4617-ab03-eff1c82bf2f8">
    </div>
 
+7. **Nuance SNS launch**
+   * Nuance swapped 262k ICP (~$900k USD) and had 424 participants.
+   * This was an incredible moment, I've been working on Nuance since the first blog post went live in 2022 and I've poured countless hours into developing the product.
+   * I'm proud to share a platform with 400+ individuals who share my passion for DAOs, freedom of speech and publishing.
+     <div align="center">
+     <img width="800" alt="Screen Shot 2023-10-03 at 9 45 58 AM" src="https://github.com/MITCHELLKURTZMAN/MITCHELLKURTZMAN/assets/68413758/680feaa8-2918-4bda-83f4-be4ddcf781ef">
+     </div>
+
 7. **Whats next?**
-   * I'm building with mulitple teams on the [IC](https://internetcomputer.org/) to launch their [SNS DAOs](https://internetcomputer.org/sns) 
+   * I'm working exclusively with Nuance to deliver on a 2 year road map of amazing features to improve the platform. 
    * I want to learn rust, tensorflow.js and get an FAA drone operators licence.
    * I'm brainstorming useful B2B dapp ideas on the IC.
 
