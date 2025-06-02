@@ -51,11 +51,20 @@ I'm an engineer building Nuance.xyz on the Internet Computer blockchain. Here ar
      <div align="center">
      <img width="800" alt="Screen Shot 2023-10-03 at 9 45 58 AM" src="https://github.com/MITCHELLKURTZMAN/MITCHELLKURTZMAN/assets/68413758/680feaa8-2918-4bda-83f4-be4ddcf781ef">
      </div>
+     
+8. Marshmallow Chat – startup validation in motion
+* First built as separate web apps, i.e. magic coloring club, now refactoring into a mobile chat application. 
+* Rolled out an interactive voice‑chat prototype and launched the public landing page at marshmallowchat.com.
+* Existing features include: Text to Speech, Voice recognition, modular AI tool calling, image generation.
+* Top feature requests from early interviews: the “Magic Magnifying Glass” (camera‑based bug/plant ID) and an age‑adaptive Kids Wiki. Both now on the sprint roadmap.
+<div align="center">
+<img width="800" alt="Screenshot 2025-06-02 at 12 12 00 PM" src="https://github.com/user-attachments/assets/af48aa57-a11f-474c-a872-e98a33c62c7f" /> 
+</div>
 
-7. **Whats next?**
-   * I'm working exclusively with Nuance to deliver on a 2 year road map of amazing features to improve the platform. 
-   * I want to learn rust, tensorflow.js and get an FAA drone operators licence.
-   * I'm brainstorming useful B2B dapp ideas on the IC.
+9. **Whats next?**
+   * I'm contining working on nuance.xyz and distrikt.app on the IC. 
+   * Learning marketing, sales, distribution of mobile apps.
+  
 
 
 <!---
