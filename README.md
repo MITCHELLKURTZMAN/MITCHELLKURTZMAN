@@ -57,6 +57,7 @@ I'm an engineer building Nuance.xyz on the Internet Computer blockchain. Here ar
 * Rolled out an interactive voice‑chat prototype and launched the public landing page at marshmallowchat.com.
 * Existing features include: Text to Speech, Voice recognition, modular AI tool calling, image generation.
 * Top feature requests from early interviews: the “Magic Magnifying Glass” (camera‑based bug/plant ID) and an age‑adaptive Kids Wiki. Both now on the sprint roadmap.
+* Test flight is live, mobile app alpha to launch q3 2025. 
 <div align="center">
 <img width="800" alt="Screenshot 2025-06-02 at 12 12 00 PM" src="https://github.com/user-attachments/assets/af48aa57-a11f-474c-a872-e98a33c62c7f" /> 
 </div>
@@ -64,6 +65,7 @@ I'm an engineer building Nuance.xyz on the Internet Computer blockchain. Here ar
 9. **Whats next?**
    * I'm contining working on nuance.xyz and distrikt.app on the IC. 
    * Learning marketing, sales, distribution of mobile apps.
+   * Validating the startup snowgate.org, an EU whistleblower compliance tool for slack.
   
 
 
