@@ -1,5 +1,5 @@
 <p align="center">
-  <!-- Languages & Frameworks -->
+  <!-- Core Languages & Frameworks -->
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Motoko-ff4d4d?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
@@ -15,12 +15,18 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/WASM-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" />
 
-  <!-- Specialties -->
+  <!-- Blockchain Specialties -->
   <img src="https://img.shields.io/badge/DAO-Design-02c3a1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Smart_Contract-Security-ff9800?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLMs-AI-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SEO-Optimization-43dfba?style=for-the-badge" />
+
+  <!-- AI / ML Stack -->
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-HuggingFace-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-Integration-111111?style=for-the-badge" />
 </p>
+
 
 
 # Hey there, I’m @MITCHELLKURTZMAN  
