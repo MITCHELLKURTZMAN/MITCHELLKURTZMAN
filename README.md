@@ -32,7 +32,7 @@
 # Hey there, I’m @MITCHELLKURTZMAN  
 Engineer at the intersection of blockchain and AI.  
 Exploring applied AI while scaling DAO infrastructure on the Internet Computer.  
-Former U.S. Coast Guard — disciplined and reliable.
+Former U.S. Coast Guard.
 
 ---
 
@@ -60,7 +60,7 @@ Former U.S. Coast Guard — disciplined and reliable.
 ---
 
 ### Aikin Dapps – blockchain engineering
-- Launched DAO treasury raising **$1.2M**, maintained through governance with zero incidents.  
+- Launched SNS DAO.  
 - Re-indexed thousands of posts, profiles, and pages to restore SEO and traffic.  
 - Built NFT-gated AI game with **1k+ concurrent moves/sec** via Motoko → GCP + Redis pipeline.  
 - Designed Rust social network with image storage sharding and automated cloud backups.  
